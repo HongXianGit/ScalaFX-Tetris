@@ -13,19 +13,19 @@ The controls are left-right-up-down and spacebar. Full horizontal lines will dis
 
 # Screenshots
 ## Menu
-<image src="screenshots/Menu.png" width = "300">
+<image src="screenshots/menu.png" width = "300">
 
 ## Game screen
-<image src="screenshots/Game.png" width = "300">
+<image src="screenshots/game.png" width = "300">
 
 ## Game over screen
-<image src="screenshots/Game_over.png" width = "300">
+<image src="screenshots/gameover.png" width = "300">
 
 ## Instructions
-<image src="screenshots/Instructions.png" width = "300">
+<image src="screenshots/instructions.png" width = "300">
 
 ## Leaderboard
-<image src="screenshots/Leaderboard.png" width = "300">
+<image src="screenshots/leaderboard.png" width = "300">
 
 # License
 The MIT License (MIT)
