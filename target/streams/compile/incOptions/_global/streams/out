@@ -1,0 +1,43 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameController$Controller$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainMenuController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Player$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TetrisScalaFx$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameOverDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TetrisScalaFx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainMenuController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TetrisScalaFx$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameOverDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InstructionController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TetrisScalaFx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameOverDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Database$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LeaderboardController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TetrisScalaFx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainMenuController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Database.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LeaderboardController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InstructionController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TetrisScalaFx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RootLayoutController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Player$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	STetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TetrisScalaFx$$anon$3$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RootLayoutController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ITetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Player.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ZTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RootLayoutController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes.bak[0m

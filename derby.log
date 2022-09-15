@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Sep 15 15:56:04 SGT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0183-4025-d2db-00000af7f170 
+on database directory C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\myDB with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
+Loaded from file:/C:/Users/Hong/Desktop/Uni/Year%202/Year%202%20Sem%201/Object%20Oriented%20Programming/Assignment/Project_19039130/tetris/target/bg-jobs/sbt_a83bd4e6/target/ca187dd6/d4f190b2/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_281-b09
+user.dir=C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

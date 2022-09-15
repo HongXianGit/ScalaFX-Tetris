@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="TOP_CENTER" prefHeight="400.0" prefWidth="600.0" styleClass="background" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="xian.hong.view.LeaderboardController">
+   <children>
+      <BorderPane>
+         <left>
+            <ImageView fx:id="backArrowImageView" fitHeight="50.0" fitWidth="50.0" onMouseClicked="#handleBackArrow" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
+               <BorderPane.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </BorderPane.margin>
+            </ImageView>
+         </left>
+         <center>
+            <Label alignment="CENTER" styleClass="label-header" text="Leaderboard" BorderPane.alignment="CENTER" />
+         </center>
+         <right>
+            <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
+               <BorderPane.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </BorderPane.margin>
+            </ImageView>
+         </right>
+      </BorderPane>
+      <TableView fx:id="playerTable" focusTraversable="false" prefHeight="261.0" prefWidth="560.0">
+        <columns>
+            <TableColumn fx:id="placeColumn" editable="false" prefWidth="75.0" sortable="false" text="Place" />
+          <TableColumn fx:id="playerNameColumn" editable="false" prefWidth="75.0" sortable="false" text="Player Name" />
+          <TableColumn fx:id="scoreColumn" editable="false" prefWidth="75.0" sortable="false" text="Score" />
+        </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+         <VBox.margin>
+            <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+         </VBox.margin>
+      </TableView>
+   </children>
+</VBox>

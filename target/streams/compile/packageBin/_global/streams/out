@@ -1,0 +1,131 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\tetris_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\backArrow.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\images\backArrow.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\bomb.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\images\bomb.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\squareTetromino.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\images\squareTetromino.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\tetris.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\images\tetris.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\tetrisHeader.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\images\tetrisHeader.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\sound[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound\clear.wav[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\sound\clear.wav[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound\collision.wav[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\sound\collision.wav[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound\gameOver.wav[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\sound\gameOver.wav[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound\hitBorder.wav[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\sound\hitBorder.wav[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound\move.wav[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\sound\move.wav[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound\rotate.wav[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\sound\rotate.wav[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound\tetrisBgm.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\sound\tetrisBgm.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\model\ITetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\model\ITetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\model\JTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\model\JTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\model\LTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\model\LTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\model\OTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\model\OTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\model\Player$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\model\Player$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\model\Player$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\model\Player$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\model\Player.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\model\Player.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\model\STetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\model\STetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\model\Tetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\model\Tetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\model\TTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\model\TTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\model\ZTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\model\ZTetromino.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\TetrisScalaFx$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\TetrisScalaFx$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\TetrisScalaFx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\TetrisScalaFx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\TetrisScalaFx$$anon$3$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\TetrisScalaFx$$anon$3$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\TetrisScalaFx$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\TetrisScalaFx$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\TetrisScalaFx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\TetrisScalaFx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\TetrisScalaFx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\TetrisScalaFx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\TetrisScalaFx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\TetrisScalaFx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\util\Database$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\util\Database$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\util\Database.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\util\Database.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\Game.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\Game.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\GameController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\GameController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\GameController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\GameController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\GameController$Controller$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\GameController$Controller$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\GameController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\GameController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\GameController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\GameController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\GameOverDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\GameOverDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\GameOverDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\GameOverDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\GameOverDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\GameOverDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\GameOverDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\GameOverDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\Instruction.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\Instruction.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\InstructionController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\InstructionController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\InstructionController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\InstructionController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\Leaderboard.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\Leaderboard.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\LeaderboardController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\LeaderboardController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\LeaderboardController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\LeaderboardController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\MainMenu.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\MainMenu.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\MainMenuController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\MainMenuController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\MainMenuController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\MainMenuController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\MainMenuController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\MainMenuController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\RootLayout.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\RootLayout.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\RootLayoutController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\RootLayoutController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\RootLayoutController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\RootLayoutController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\RootLayoutController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\RootLayoutController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xian\hong\view\Tetris.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Hong\Desktop\Uni\Year 2\Year 2 Sem 1\Object Oriented Programming\Assignment\Project_19039130\tetris\target\scala-2.12\classes\xian\hong\view\Tetris.css[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
